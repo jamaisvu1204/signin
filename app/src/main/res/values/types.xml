@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>赛事类</item>
+        <item>项目类</item>
+        <item>生活类</item>
+        <item>实验室类</item>
+    </string-array>
+</resources>
